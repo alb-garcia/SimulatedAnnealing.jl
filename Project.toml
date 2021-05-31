@@ -1,0 +1,13 @@
+name = "SimulatedAnnealing"
+uuid = "444226c7-9630-4718-92dd-82c22b6af8a9"
+authors = ["Alberto Garcia <beto.garcia.izquierdo@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
